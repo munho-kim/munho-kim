@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 
 ## 👋 안녕하세요. 👨🏻‍💻 반도체 설계 검증 엔지니어, 김문호입니다!
+🎓 국립금오공과대학교 반도체시스템전공 졸업
+📢 "디지털 회로 설계 능력을 기반으로 SoC/ASIC 개발에 기여하고 싶습니다."
 
 ## ❓ EASYME.md가 뭐예요?   
 - **EASYME.md**는 **<u>개발자가 README.md를 좀 더 쉽게 작성할 수 있도록</u>** 하기 위해 만들었어요.   
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+Vivado
    
 ## Header
 - # H1 Header   
