@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🙌 안녕하세요. EASYME.md를 만든 원아입니다!
-![easyme](/assets/readme/cartoon.png)   
+## 🙌 안녕하세요. 반도체 설계 검증 엔지니어, 김문호입니다!
 
 ## ❓ EASYME.md가 뭐예요?   
 - **EASYME.md**는 **<u>개발자가 README.md를 좀 더 쉽게 작성할 수 있도록</u>** 하기 위해 만들었어요.   
@@ -35,7 +34,9 @@ Here are some ideas to get you started:
 4. 오른쪽에 작성한 글 전체를 복사하세요!   
 (저장을 원할 경우 `Ctrl + S` / `Command + S` 또는 툴바창 제일 오른쪽에 `공유하기 아이콘`을 클릭해주세요.)   
 5. 이제 여러분의 **README.md** 에 붙여넣으세요!   
-(저장 또는 공유를 할 경우 링크를 다른 사람에게 전달할 수 있어요! 😀)  
+(저장 또는 공유를 할 경우 링크를 다른 사람에게 전달할 수 있어요! 😀)
+
+## 🧩 주요 프로젝트
 
 ## 🛠 기능 엿보기   
 
